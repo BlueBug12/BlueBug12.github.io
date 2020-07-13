@@ -1,2 +1,2 @@
-# BlueBug12.github.io
-Password encoder &amp; decoder with key.
+# Masker
+Encoding &amp; decoding password with key.
